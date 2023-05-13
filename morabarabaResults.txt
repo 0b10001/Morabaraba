@@ -1,0 +1,7 @@
+4
+P1
+line
+line
+
+P1 wins
+
