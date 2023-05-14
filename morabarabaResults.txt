@@ -1,564 +1,187 @@
 4
-P1 00-S0,i4
-P2 00-S2,i2
-P1 00-S2,i6
+P1 00-S1,i6
 P2 00-S1,i7
-P1 00-S0,i1
+P1 00-S1,i5
+P2 00-S1,i0
+P1 00-S0,i0
 P2 00-S2,i3
-P1 00-S0,i7
-P2 00-S0,i3
+P1 00-S2,i6
+P2 00-S2,i1
 
 P1 Wins
 
 6
-P1 00-S0,i7
-P2 00-S0,i5
-P1 00-S1,i5
-P2 00-S2,i1
-P1 00-S2,i6
-P2 00-S0,i1
-P1 00-S1,i4
-P2 00-S2,i5
-P1 00-S0,i6
-P2 00-S0,i4
+P1 00-S0,i0
+P2 00-S2,i6
+P1 00-S2,i1
+P2 00-S1,i2
+P1 00-S1,i3
+P2 00-S2,i4
 P1 00-S0,i3
-P2 00-S1,i7
+P2 00-S2,i2
+P1 00-S0,i5
+P2 00-S2,i3
+P1 00-S2,i5
+P2 00-S1,i4
 
 P1 Wins
 
 9
-P1 00-S0,i2
-P2 00-S2,i4
-P1 00-S1,i1
-P2 00-S1,i6
-P1 00-S2,i7
-P2 00-S0,i0
-P1 00-S0,i7
-P2 00-S1,i4
-P1 00-S2,i2
-P2 00-S0,i3
-P1 00-S1,i0
-P2 00-S2,i1
-P1 00-S0,i1
-P2 00-S2,i5
-P1 00-S1,i3
-P2 00-S1,i5
-P1 00-S2,i6
+P1 00-S0,i0
 P2 00-S0,i5
+P1 00-S1,i0
+P2 00-S1,i2
+P1 00-S0,i2
+P2 00-S1,i6
+P1 00-S2,i3
+P2 00-S0,i3
+P1 00-S2,i5
+P2 00-S1,i1
+P1 00-S2,i2
+P2 00-S2,i1
+P1 00-S2,i6
+P2 00-S1,i7
+P1 00-S2,i7
+P2 00-S2,i0
+P1 00-S1,i4
+P2 00-S0,i1
 
 P1 Wins
 
 6
-P1 00-S1,i3
-P2 00-S0,i1
-P1 00-S2,i5
+P1 00-S2,i4
+P2 00-S0,i3
+P1 00-S1,i1
 P2 00-S0,i6
-P1 00-S2,i1
-P2 00-S1,i4
-P1 00-S0,i7
-P2 00-S1,i5
-P1 00-S2,i7
-P2 00-S2,i6
-P1 00-S0,i5
-P2 00-S0,i2
+P1 00-S2,i5
+P2 00-S2,i7
+P1 00-S1,i5
+P2 00-S2,i0
+P1 00-S1,i4
+P2 00-S0,i1
+P1 00-S1,i3
+P2 00-S2,i2
 
 P1 Wins
 
 12
-P1 00-S2,i2
-P2 00-S0,i3
-P1 00-S0,i2
-P2 00-S2,i3
-P1 00-S1,i0
-P2 00-S2,i4
-P1 00-S1,i4
-P2 00-S2,i7
-P1 00-S1,i1
-P2 00-S1,i7
-P1 00-S0,i5
-P2 00-S0,i6
-P1 00-S2,i1
-P2 00-S0,i4
-P1 00-S2,i0
-P2 00-S0,i1
-P1 00-S1,i3
-P2 00-S2,i5
-P1 00-S0,i7
-P2 00-S1,i2
+P1 00-S1,i7
+P2 00-S1,i0
 P1 00-S0,i0
-P2 00-S2,i6
+P2 00-S2,i4
+P1 00-S0,i4
+P2 00-S2,i2
+P1 00-S2,i1
+P2 00-S2,i3
+P1 00-S1,i2
+P2 00-S0,i1
 P1 00-S1,i5
 P2 00-S1,i6
-
-P1 Wins
-
-4
+P1 00-S1,i4
+P2 00-S0,i5
+P1 00-S2,i5
+P2 00-S1,i1
+P1 00-S0,i7
+P2 00-S0,i2
 P1 00-S2,i7
 P2 00-S1,i3
-P1 00-S1,i6
-P2 00-S2,i2
-P1 00-S2,i3
-P2 00-S0,i5
-P1 00-S1,i2
-P2 00-S0,i4
-
-P1 Wins
-
-6
-P1 00-S1,i5
-P2 00-S2,i5
-P1 00-S0,i1
-P2 00-S0,i2
-P1 00-S1,i3
-P2 00-S2,i6
-P1 00-S2,i4
-P2 00-S1,i7
-P1 00-S2,i3
-P2 00-S2,i7
-P1 00-S0,i4
-P2 00-S1,i2
-
-P1 Wins
-
-9
-P1 00-S1,i6
-P2 00-S0,i6
-P1 00-S0,i2
-P2 00-S0,i7
-P1 00-S2,i4
-P2 00-S2,i6
-P1 00-S1,i7
-P2 00-S2,i0
-P1 00-S0,i3
-P2 00-S0,i1
-P1 00-S2,i7
-P2 00-S2,i2
-P1 00-S0,i5
-P2 00-S0,i0
-P1 00-S1,i1
-P2 00-S2,i3
-P1 00-S2,i5
-P2 00-S1,i5
-
-P1 Wins
-
-6
-P1 00-S0,i3
-P2 00-S2,i4
-P1 00-S1,i3
-P2 00-S0,i7
-P1 00-S0,i4
-P2 00-S1,i2
 P1 00-S2,i6
-P2 00-S1,i0
+P2 00-S0,i3
 P1 00-S2,i0
 P2 00-S0,i6
-P1 00-S1,i4
-P2 00-S0,i1
-
-P1 Wins
-
-12
-P1 00-S2,i6
-P2 00-S2,i1
-P1 00-S1,i3
-P2 00-S0,i2
-P1 00-S2,i2
-P2 00-S1,i1
-P1 00-S0,i7
-P2 00-S2,i4
-P1 00-S1,i6
-P2 00-S2,i0
-P1 00-S2,i3
-P2 00-S1,i5
-P1 00-S0,i4
-P2 00-S0,i6
-P1 00-S0,i5
-P2 00-S1,i0
-P1 00-S2,i5
-P2 00-S0,i0
-P1 00-S1,i2
-P2 00-S0,i1
-P1 00-S1,i4
-P2 00-S0,i3
-P1 00-S1,i7
-P2 00-S2,i7
 
 P1 Wins
 
 4
-P1 00-S1,i1
-P2 00-S1,i0
-P1 00-S2,i0
-P2 00-S2,i6
-P1 00-S1,i4
-P2 00-S1,i6
-P1 00-S2,i4
-P2 00-S0,i2
+P1 00-S1,i6
+P2 00-S0,i6
+P1 00-S2,i5
+P2 00-S1,i5
+P1 00-S1,i7
+P2 00-S2,i0
+P1 00-S0,i7
+P2 00-S2,i7
 
 P1 Wins
 
 6
-P1 00-S2,i4
+P1 00-S0,i7
+P2 00-S2,i1
+P1 00-S1,i1
+P2 00-S0,i3
+P1 00-S2,i5
 P2 00-S2,i3
-P1 00-S1,i2
-P2 00-S2,i6
-P1 00-S1,i5
-P2 00-S2,i2
-P1 00-S0,i4
-P2 00-S2,i0
 P1 00-S1,i0
-P2 00-S1,i1
-P1 00-S2,i7
-P2 00-S1,i6
-
-P1 Wins
-
-9
-P1 00-S1,i1
-P2 00-S1,i5
-P1 00-S2,i3
-P2 00-S0,i0
-P1 00-S0,i4
-P2 00-S2,i0
-P1 00-S2,i7
-P2 00-S1,i4
-P1 00-S2,i5
-P2 00-S1,i0
-P1 00-S0,i7
-P2 00-S1,i2
-P1 00-S0,i6
-P2 00-S2,i4
-P1 00-S2,i2
-P2 00-S0,i2
-P1 00-S2,i6
-P2 00-S1,i6
-
-P1 Wins
-
-6
-P1 00-S2,i0
-P2 00-S1,i0
-P1 00-S0,i6
-P2 00-S2,i7
-P1 00-S0,i7
-P2 00-S2,i2
-P1 00-S2,i4
-P2 00-S1,i1
-P1 00-S2,i5
-P2 00-S1,i4
-P1 00-S0,i4
-P2 00-S0,i0
-
-P1 Wins
-
-12
-P1 00-S0,i2
-P2 00-S0,i1
-P1 00-S1,i5
-P2 00-S0,i6
-P1 00-S0,i5
-P2 00-S1,i7
-P1 00-S2,i3
-P2 00-S2,i7
-P1 00-S1,i3
-P2 00-S1,i0
-P1 00-S1,i6
-P2 00-S2,i4
-P1 00-S1,i1
-P2 00-S2,i0
-P1 00-S2,i2
-P2 00-S0,i0
-P1 00-S2,i6
-P2 00-S1,i4
-P1 00-S2,i5
-P2 00-S0,i7
-P1 00-S0,i3
-P2 00-S1,i2
-P1 00-S0,i4
-P2 00-S2,i1
-
-P1 Wins
-
-4
-P1 00-S0,i4
-P2 00-S1,i7
-P1 00-S2,i7
-P2 00-S1,i1
-P1 00-S1,i6
-P2 00-S1,i4
-P1 00-S2,i6
-P2 00-S1,i5
-
-P1 Wins
-
-6
-P1 00-S1,i6
-P2 00-S0,i3
-P1 00-S0,i4
-P2 00-S2,i3
-P1 00-S2,i7
-P2 00-S1,i7
-P1 00-S2,i2
-P2 00-S1,i2
-P1 00-S0,i6
-P2 00-S0,i2
-P1 00-S0,i5
-P2 00-S0,i1
-
-P1 Wins
-
-9
-P1 00-S2,i7
-P2 00-S1,i2
-P1 00-S1,i7
-P2 00-S2,i5
-P1 00-S0,i1
-P2 00-S0,i2
-P1 00-S2,i4
-P2 00-S0,i6
-P1 00-S0,i0
-P2 00-S0,i3
-P1 00-S2,i3
-P2 00-S1,i0
-P1 00-S2,i0
-P2 00-S1,i1
-P1 00-S2,i6
-P2 00-S0,i5
-P1 00-S2,i1
-P2 00-S2,i2
-
-P1 Wins
-
-6
-P1 00-S0,i1
-P2 00-S0,i5
-P1 00-S1,i6
-P2 00-S1,i7
-P1 00-S2,i4
-P2 00-S0,i6
-P1 00-S2,i1
 P2 00-S0,i4
-P1 00-S2,i3
-P2 00-S2,i0
-P1 00-S1,i3
-P2 00-S2,i5
-
-P1 Wins
-
-12
-P1 00-S0,i2
-P2 00-S1,i7
-P1 00-S2,i0
-P2 00-S0,i7
-P1 00-S2,i7
-P2 00-S2,i5
-P1 00-S1,i5
-P2 00-S1,i1
-P1 00-S1,i3
-P2 00-S2,i2
-P1 00-S2,i6
-P2 00-S2,i3
-P1 00-S0,i0
-P2 00-S1,i2
-P1 00-S0,i6
-P2 00-S2,i4
 P1 00-S1,i4
-P2 00-S0,i1
-P1 00-S0,i4
-P2 00-S1,i0
-P1 00-S2,i1
-P2 00-S0,i5
-P1 00-S1,i6
-P2 00-S0,i3
-
-P1 Wins
-
-4
+P2 00-S2,i6
 P1 00-S2,i2
-P2 00-S1,i1
-P1 00-S1,i6
-P2 00-S0,i4
-P1 00-S2,i5
-P2 00-S1,i4
-P1 00-S2,i6
-P2 00-S0,i2
-
-P1 Wins
-
-6
-P1 00-S2,i6
-P2 00-S2,i2
-P1 00-S1,i6
-P2 00-S0,i4
-P1 00-S0,i0
-P2 00-S1,i0
-P1 00-S0,i7 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i4) | 5 left
-P2 00-S1,i7
-P1 00-S0,i4 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i4) | 4 left
-P2 00-S1,i2
-P1 00-S0,i4 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i4) | 3 left
-P2 00-S2,i4
+P2 00-S0,i6
 
 P1 Wins
 
 9
-P1 00-S0,i3
-P2 00-S2,i2
+P1 00-S2,i6
+P2 00-S1,i5
 P1 00-S1,i2
-P2 00-S2,i4
-P1 00-S1,i4
-P2 00-S2,i3
-P1 00-S0,i7
-P2 00-S0,i1
-P1 00-S1,i0
-P2 00-S0,i0
-P1 00-S2,i7
-P2 00-S1,i5
-P1 00-S0,i6 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i1) | 8 left
-P2 00-S2,i5
-P1 00-S1,i1 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i6) | 7 left
-P2 00-S2,i6
-P1 00-S1,i6 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i6) | 6 left
-P2 00-S0,i4
-
-P1 Wins
-
-6
-P1 00-S1,i5
-P2 00-S2,i6
-P1 00-S1,i7
-P2 00-S1,i0
-P1 00-S0,i6
-P2 00-S1,i2
-P1 00-S0,i2
-P2 00-S2,i1
-P1 00-S1,i4
-P2 00-S0,i3
-P1 00-S2,i4
-P2 00-S0,i4
-
-P1 Wins
-
-12
-P1 00-S2,i1
-P2 00-S0,i5
-P1 00-S2,i3
-P2 00-S2,i4
-P1 00-S0,i4
-P2 00-S0,i1
-P1 00-S0,i3
-P2 00-S2,i2
-P1 00-S1,i3
-P2 00-S0,i2
-P1 00-S0,i6
-P2 00-S2,i6
-P1 00-S1,i4
-P2 00-S1,i7
-P1 00-S1,i1
-P2 00-S2,i0
-P1 00-S0,i0
-P2 00-S1,i5
-P1 00-S2,i7
-P2 00-S1,i0
-P1 00-S0,i7 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i5) | 11 left
-P2 00-S2,i5
-P1 00-S1,i2 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i6) | 10 left
-P2 00-S1,i6
-
-P1 Wins
-
-4
-P1 00-S2,i5
-P2 00-S2,i7
-P1 00-S0,i0
-P2 00-S1,i5
-P1 00-S0,i4
-P2 00-S1,i2
-P1 00-S2,i0
-P2 00-S2,i2
-
-P1 Wins
-
-6
-P1 00-S1,i3
-P2 00-S0,i1
-P1 00-S1,i4
-P2 00-S2,i1
-P1 00-S1,i7
-P2 00-S0,i5
-P1 00-S0,i6
-P2 00-S0,i0
-P1 00-S1,i0 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i6) | 5 left
-P2 00-S2,i5
-P1 00-S2,i2
-P2 00-S1,i6
-
-P1 Wins
-
-9
-P1 00-S2,i0
-P2 00-S1,i4
-P1 00-S1,i7
-P2 00-S1,i6
-P1 00-S1,i1
-P2 00-S0,i7
-P1 00-S2,i6
-P2 00-S0,i6
-P1 00-S2,i5
-P2 00-S2,i1
-P1 00-S1,i5
 P2 00-S1,i3
-P1 00-S1,i0
-P2 00-S2,i3
-P1 00-S1,i2
+P1 00-S2,i0
+P2 00-S1,i7
+P1 00-S1,i1
+P2 00-S0,i4
+P1 00-S1,i6
+P2 00-S0,i5
+P1 00-S0,i1
+P2 00-S2,i1
+P1 00-S2,i5
+P2 00-S0,i7
+P1 00-S0,i2
+P2 00-S0,i0
+P1 00-S0,i6
 P2 00-S2,i2
-P1 00-S0,i3
-P2 00-S0,i2
 
 P1 Wins
 
 6
 P1 00-S1,i7
-P2 00-S2,i5
-P1 00-S2,i6
-P2 00-S1,i2
-P1 00-S2,i0
-P2 00-S0,i3
+P2 00-S0,i1
+P1 00-S0,i3
+P2 00-S1,i6
 P1 00-S0,i0
-P2 00-S2,i1
-P1 00-S1,i0
-P2 00-S2,i7
-P1 00-S0,i5
-P2 00-S1,i4
+P2 00-S1,i3
+P1 00-S1,i4
+P2 00-S2,i0
+P1 00-S2,i5
+P2 00-S0,i7
+P1 00-S0,i6 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i1) | 5 left
+P2 00-S0,i4
 
 P1 Wins
 
 12
-P1 00-S0,i2
-P2 00-S0,i5
-P1 00-S0,i3
-P2 00-S2,i7
-P1 00-S1,i4
-P2 00-S1,i5
-P1 00-S2,i1
-P2 00-S0,i7
-P1 00-S2,i2
-P2 00-S2,i0
-P1 00-S1,i2
-P2 00-S1,i1
+P1 00-S1,i6
+P2 00-S1,i3
 P1 00-S0,i6
-P2 00-S2,i3
-P1 00-S2,i4
-P2 00-S0,i4
-P1 00-S1,i7
+P2 00-S2,i2
+P1 00-S0,i1
 P2 00-S2,i5
+P1 00-S1,i1
+P2 00-S0,i2
+P1 00-S2,i1
+P2 00-S2,i4
+P1 00-S1,i0
+P2 00-S0,i3
+P1 00-S0,i7 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i2) | 11 left
+P2 00-S0,i4
+P1 00-S2,i3
+P2 00-S1,i4
 P1 00-S2,i6
-P2 00-S1,i0
-P1 00-S1,i3
-P2 00-S0,i1
-P1 00-S0,i0 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i5) | 11 left
-P2 00-S1,i6
+P2 00-S1,i7
+P1 00-S2,i7
+P2 00-S1,i5
+P2 00-S0,i5
+P1 00-S0,i2 (mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i2) | 9 left
+P2 00-S0,i0
 
 P1 Wins
 

@@ -111,9 +111,9 @@ void myFunction (int N) {
             				counterP2 --;
             				for (auto const& [key, value] : my_mapP2) {
 		    				if(key == "S0"){
-		    					std::cout << "IM INSIDE S0 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" << std::endl;
+		    					//std::cout << "IM INSIDE S0 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" << std::endl;
 		    						if(isCowInMill(10,value, board)){
-		    							std::cout << "IM MILL S0 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" << std::endl;
+		    							//std::cout << "IM MILL S0 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" << std::endl;
 		    							output_file << sss << " " << "(mill = S0i6, S0i7, S0i0) P2 losses cow "<<"("<<key<<","<<"i"<<value<<")"<<" | "<<counterP2<< " left"<<endl;
 		    							board[0][value] =0;
 		    							break;
@@ -158,7 +158,6 @@ void myFunction (int N) {
             			if (FOUND(P1,"6","7","0")){
             				counterP2 --;
             		
-            				output_file << sss << " " << "(mill = S0i6, S0i7, S0i0) P2 losses cow (S0,i6) | "<<counterP2<< " left"<<endl;
 
 
 
